@@ -1,3 +1,11 @@
+<!-- CLEARGLASS-BRAND:START -->
+<p align="center">
+  <a href="https://www.clearglassinc.com/">
+    <img src="https://raw.githubusercontent.com/ClearGlasslabs/ClearGlassInc./brand-assets/clearglass-seal.jpg" alt="ClearGlass Inc." width="360" />
+  </a>
+</p>
+<!-- CLEARGLASS-BRAND:END -->
+
 # 📂 Historical Data Breaches Archive
 
 Welcome to the **Historical Data Breaches Archive**! This repository contains a comprehensive and ever-growing collection of data breaches throughout history. All the data breaches stored here are publicly available and can be freely downloaded for research, analysis, or educational purposes.
